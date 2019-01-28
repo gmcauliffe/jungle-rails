@@ -76,3 +76,13 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * PostgreSQL 9.x
 * Stripe
 
+## Screenshots
+
+!["The main page"](https://github.com/gmcauliffe/-rails/blob/master/docs/main_page.png?raw=true)
+!["Example product page"](https://github.com/gmcauliffe/-rails/blob/master/docs/product_page.png?raw=true)
+!["Reviews"](https://github.com/gmcauliffe/-rails/blob/master/docs/reviews.png?raw=true)
+!["Cart"](https://github.com/gmcauliffe/-rails/blob/master/docs/cart.png?raw=true)
+!["Order Page"](https://github.com/gmcauliffe/-rails/blob/master/docs/order_page.png?raw=true)
+!["Receipt Page"](https://github.com/gmcauliffe/-rails/blob/master/docs/receipt_page.png?raw=true)
+!["Admin Products"](https://github.com/gmcauliffe/-rails/blob/master/docs/admin_products.png?raw=true)
+!["Admin Categories"](https://github.com/gmcauliffe/-rails/blob/master/docs/admin_categories.png?raw=true)
